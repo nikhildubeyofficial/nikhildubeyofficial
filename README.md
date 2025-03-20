@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhetbelegvanede.nl%2Frosl%2F%3Fb%3DClass-To-develop-your-core-competencies-in-applying-data-t-12138533.htm&psig=AOvVaw3wbh9kkwarQ24qpMbup82Z&ust=1742557474473000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi155bLmIwDFQAAAAAdAAAAABAh)](https://nikhildubeyofficial.io)
 <h1 align="center">Hi 👋, I'm Nikhil Dubey</h1>
 <h3 align="center">A passionate Frontend Developer, Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub&psig=AOvVaw3-exAMjrE2Fs1ZEpV5qhAi&ust=1742557383118000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjS9abKmIwDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhildubeyofficial&label=Profile%20views&color=0e75b6&style=flat" alt="nikhildubeyofficial" /> </p>

@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhetbelegvanede.nl%2Frosl%2F%3Fb%3DClass-To-develop-your-core-competencies-in-applying-data-t-12138533.htm&psig=AOvVaw3wbh9kkwarQ24qpMbup82Z&ust=1742557474473000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi155bLmIwDFQAAAAAdAAAAABAh)](https://nikhildubeyofficial.io)
+[![MasterHead](https://repository-images.githubusercontent.com/245385808/f1342400-cbd9-11eb-84d5-36d6ce41d01a)](https://nikhildubeyofficial.io)
 <h1 align="center">Hi 👋, I'm Nikhil Dubey</h1>
 <h3 align="center">A passionate Frontend Developer, Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
